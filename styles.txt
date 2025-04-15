@@ -1,0 +1,36 @@
+** FONT ***
+
+bodyfont: "Poppins",sans-serif;
+headingfont: "Antonio", sans-serif
+italicfont: "Satisfy",curvise;
+
+
+--font-size-base: 15px;
+    --font-size-h1: 40px;
+    --font-size-h2: 35px;
+    --font-size-h3: 30px;
+    --font-size-h4: 25px;
+    --font-size-h5: 22px;
+    --font-size-h6: 16px;
+    --menu-size: 12px;
+    --line-height-base: 1.5;
+    --line-height-content: 1.8;
+    --font-weight-heading: 600;
+    --font-weight-body: 500;
+    --smooth-width: 4px;
+    --bg-overlay: #000;
+    --overlay-blend-mode: unset;
+
+
+    ** COLORS ***
+    -bg-color: #F3F3F3;
+    --assistant-color: #E9E9E9;
+    --theme-color: #b3de4f;
+    --theme-color-font: #fff;
+    --font-color: #5c5c5c;
+    --heading-color: #000;
+    --border-color: #dcdcdc;
+    --smooth-color: #141414;
+    --reverse-color: #141414;
+    --reverse-heading-color: #fff;
+    --bg-btn: #f6fafd;
