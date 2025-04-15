@@ -12,8 +12,7 @@ import Testimonials from "../sections/Testimonials";
 import Blogs from "../sections/Blogs";
 import Cta from "../sections/Cta";
 import Footer from "../sections/Footer";
-import ScrollTextReveal from "../sections/ScrollTextReveal";
-import WorkItem from "../sections/WorkItem";
+
 
 const Home = () => {
   const [loading, setLoading] = useState(true);
